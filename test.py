@@ -1,6 +1,6 @@
 import unittest
 
-#Fixing unit test
+#Fixing unittest
 class TestSum(unittest.TestCase):
 
     def test_sum(self):
